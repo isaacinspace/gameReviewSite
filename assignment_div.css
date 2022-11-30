@@ -1,0 +1,90 @@
+/*every page*/
+
+
+body {
+    text-align: center;
+    width: 90vw;
+    margin: 10px auto;
+    margin-top: 50px;
+    background-image: url('background.png');
+    font-family: 'Fragment Mono', monospace;
+    color: white;
+}
+
+.header {
+    margin: 10 auto;
+    margin-bottom: 30px;
+    height: 260px;
+    font-size: 200%;
+}
+
+.navBar {
+    border-radius: 25px;
+    /*border: 5px solid rgb(34, 152, 231);*/
+    margin-bottom: 30px;
+    background-color: rgb(2, 5, 58);
+    font-size: 75%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /*background-color: ;*/
+    border-radius: 25px;
+    margin-left: 30%;
+}
+
+li {
+    display: inline;
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 200%;
+    /*border: 2px solid white;*/
+    border-radius: 25px;
+    margin: 10px;
+    padding: 5px;
+}
+
+li a:hover {
+    background-color: black;
+    /*border-radius: 15px;
+    padding: 5px;*/
+}
+
+.footer {
+    height: 280px;
+}
+
+
+/*specific pages*/
+
+/*home*/
+.grid1{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    width: 70%;
+    margin-left: 15%;
+}
+
+a:visited {
+    color: white;
+}
+
+.homeGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 50px;
+}
+
+.homeGrid2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
