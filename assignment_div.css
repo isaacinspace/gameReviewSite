@@ -99,4 +99,8 @@ a:visited {
 
 /*page 4*/
 
-/*page 5*/
+/*contact*/
+.contactDetails {
+    width: 80%;
+    margin-left: 10%;
+}
