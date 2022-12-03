@@ -2,6 +2,7 @@
 
 ## 30/11/22
 write updates on what we have done in here :)
+
 isaac ~45min: added everything into github, worked on the home page and consistent code
 
 ## 01/12/22
