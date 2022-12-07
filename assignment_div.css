@@ -94,6 +94,18 @@ a:visited {
 
 
 /*page 2*/
+.releasedGrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 70%;
+    margin-left: 15%;
+}
+
+.releasedImages{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    margin-bottom: 50px;
+}
 
 /*page 3*/
 .upcomingGrid {
