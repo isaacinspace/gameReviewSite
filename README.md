@@ -10,3 +10,6 @@ isaac ~2h: uploaded assets, made and wrote contact page, created page titles, re
 
 ## 05/12/22
 kathryn: Added platforms and ratings to homepage as I didn't know how to save last time, updated released page (added minecraft with asset), links yet to be worked out
+
+## 07/12/22
+isaac ~2.5h: sorted bugs, added asset folder, finished page 3
