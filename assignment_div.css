@@ -83,6 +83,10 @@ a:visited {
     color: white;
 }
 
+a:hover {
+    color: grey;
+}
+
 .homeGrid {
     display: grid;
     grid-template-columns: 1fr 1fr;
