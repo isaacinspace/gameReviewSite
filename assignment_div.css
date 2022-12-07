@@ -4,7 +4,7 @@ body {
     width: 90vw;
     margin: 10px auto;
     margin-top: 50px;
-    background-image: url('background.png');
+    background-image: url('ASSETS/background.png');
     background-size: cover;
     background-repeat: no-repeat; 
     font-family: 'Fragment Mono', monospace;
