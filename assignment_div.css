@@ -100,13 +100,14 @@ a:visited {
     display: grid;
     grid-template-columns: 1fr 1fr;
     width: 70%;
-    margin-left: 15%;
+    margin-left: 10%;
 }
 
 .releasedImages{
-    display: grid;
-    grid-template-rows: 1fr 1fr;
-    margin-bottom: 50px;
+    border: 2px solid white; 
+    border-radius: 15px; 
+    margin: 2%;
+    padding-top: 3px;
 }
 
 /*page 3*/
@@ -114,13 +115,14 @@ a:visited {
     display: grid;
     grid-template-columns: 1fr 1fr;
     width: 70%;
-    margin-left: 15%;
+    margin-left: 10%;
 }
 
 .upcomingImages {
-    display: grid;
-    grid-template-rows: 1fr 1fr;
-    margin-bottom: 50px;
+    border: 2px solid white; 
+    border-radius: 15px; 
+    margin: 2%;
+    padding-top: 3px;
 }
 
 /*page 4*/
